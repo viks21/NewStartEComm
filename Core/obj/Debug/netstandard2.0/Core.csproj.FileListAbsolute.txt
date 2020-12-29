@@ -1,0 +1,8 @@
+D:\vikas\sud\Start Again\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\vikas\sud\Start Again\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+D:\vikas\sud\Start Again\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\vikas\sud\Start Again\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\vikas\sud\Start Again\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\vikas\sud\Start Again\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\vikas\sud\Start Again\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+D:\vikas\sud\Start Again\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
